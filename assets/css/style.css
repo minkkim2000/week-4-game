@@ -1,0 +1,61 @@
+#header{
+	padding: 20px 200px;
+}
+
+#target-number-box{
+	padding: 30px;
+	color: #f0ad4e;
+	text-align: center;
+}
+
+h1 {
+	font-size: 63px;
+	text-align: center;
+}
+
+#win-loss-count-box{
+	padding: 30px;
+}
+#win-count{
+	padding-left : 20px;
+}
+
+#loss-count{
+	padding-left : 20px;
+}
+p.lead{
+	font-size: 19px;
+	line-height: 19px;
+}
+
+.container{
+	margin-bottom: 15px;
+}
+
+img{
+	max-width: 100px;
+	margin: 12px;
+}
+
+#total-score-box{
+	padding: 30px;
+	text-align: center;
+}
+
+#player-score-count{
+	font-size: 52px;
+}
+
+#gems-and-total-box{
+	margin-bottom: 50px;
+
+}
+
+#gem-images{
+	padding: 25px;
+}
+
+#win-or-lose {
+	text-align: center;
+	margin-bottom: 20px;
+}
